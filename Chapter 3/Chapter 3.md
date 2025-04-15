@@ -147,5 +147,3 @@ This code is the equivalent of the previous example.
 
 In this chapter, you learned the basics of Python’s Numeric types. Here you learned a little about how Python handles `int`, `float`, and `complex` number types. You can use these types for working with most operations that involve numbers. However, if you are working with floating-point numbers that need to be precise, you will want to check out Python’s `decimal` module. It is tailor-made for working with that type of number.
 ```
-
-Bu düzenleme Markdown formatına uygun olacak şekilde yapıldı. İstediğin herhangi bir ekleme veya değişiklik olursa söyleyebilirsin!
